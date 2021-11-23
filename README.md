@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rlfritz
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning manuals ...
+- 👀 I’m interested in Data Science & Analytics (DSA)
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me in my house ?
 
